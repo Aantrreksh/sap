@@ -30,4 +30,4 @@ Documentation repository for everything in the IBM Cloud for SAP portfolio.
 - https://github.ibm.com/cloud-docs/sap-vpc-hana :white_check_mark: 
 
 
-##Created And Designed By - Aantrreksh Singh
+## Created And Designed By - Aantrreksh Singh
